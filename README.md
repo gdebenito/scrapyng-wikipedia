@@ -22,7 +22,7 @@ El resultado del ejemplo es:
 
 1. Instalamos el paquete "scrapy": `pip3 install scrapy`
 2. Ejecutamos comando `scrapy runspider wikipedia.py -o resultados.csv`
-3. Abrimos el fichero `tabla.csv` donde podemos ver los datos:
+3. Abrimos el fichero `resultados.csv` donde podemos ver los datos:
 
 
 ## ¿Cómo ocurre el parseo?
