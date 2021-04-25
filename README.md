@@ -41,9 +41,9 @@ Queremos escoger esta tabla de aquí
 
 ![](assets/seleccion-html.png)
 
-Naranja: Tag HTML **tabla** *table*
-Verde: Propiedad del elemento *class*
-Amarillo: Nombre de la clase = `infobox`
+- Naranja: Tag HTML **tabla** *table*
+- Verde: Propiedad del elemento *class*
+- Amarillo: Nombre de la clase = `infobox`
 
 De este análisis vamos analizando los resultados.
 
